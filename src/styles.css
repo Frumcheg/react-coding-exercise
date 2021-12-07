@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  padding: 16px 24px;
+}
+
+.item {
+  margin-bottom: 8px;
+}
+
+.button {
+  margin-bottom: 18px;
+}
